@@ -1,0 +1,5 @@
+scenario,policy,irrigation_mm,drainage_mm,yield_proxy
+default_weather,DQN,19.740466427852212,1450.31889992991,1.0
+default_weather,Conventional,0.0,1430.5784335020576,1.0
+stress_test_weather,DQN,0.9320613864217335,111.45455735015585,0.9998729414843102
+stress_test_weather,Conventional,0.0,110.52249596373413,0.9998729414843102

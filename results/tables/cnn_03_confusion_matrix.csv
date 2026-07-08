@@ -1,0 +1,4 @@
+true_class,healthy,moderate_stress,severe_stress
+healthy,40,43,4
+moderate_stress,2,201,8
+severe_stress,0,20,60

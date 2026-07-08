@@ -1,0 +1,4 @@
+action,count_all_days,count_when_below_h_min,pct_all_days,pct_when_below_h_min
+A0 (0%),5542.0,0.0,86.59375,0.0
+A1 (50%),298.0,0.0,4.65625,0.0
+A2 (100%),560.0,0.0,8.75,0.0
